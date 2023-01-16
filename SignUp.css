@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(22, 8, 132);
+}
+label {
+    color: white;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    text-shadow: 15px 7px 3px black;
+}
+h1 {
+    font-size: 60px;
+    background-color: cyan;
+    color: rgb(31, 20, 251);
+    /* text-shadow: 10px 5px 3px black; */
+    height: 90px;
+    margin-bottom: 0px;
+}
+label {
+    margin-right: 20px;
+}
+td {
+    padding-left: 20px;
+    padding-top: 10px;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+}
+button {
+    color: purple;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 35px;
+    background-color: white;
+    border-color: cyan;
+}
+input {
+    color:rgb(22, 8, 132);
+    width: 200px;
+    height: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p[class="logo"] {
+    color: cyan;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-shadow: 10px 5px 3px black;
+}
+p[class="emoji"] {
+    text-align: center;
+    font-size: 70px;
+    text-shadow: 10px 3px 3px black;
+}
+#first {
+    position: absolute;
+    left: 50px
+}
+#second {
+    position: absolute;
+    left: 500px
+}
+#third {
+    position: absolute;
+    left: 980px
+}
+#bio {
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#area {
+    height: 24px;
+    width: 202px;
+}
+#signUp {
+    transform: scale(2);
+    width: 100px;
+    height: 25px;
+    position: relative;
+    left: 1100px;
+    bottom: 100px;
+}
+#goBack  {
+    position: absolute;
+    top: 27px;
+    left: 1345px;
+    transform: scale(1.5);
+}
+#header {
+    position: relative;
+    top: -40px;
+    left: -7px;
+    width: 1520px;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

@@ -1,0 +1,103 @@
+body {
+    background-color: rgb(22, 8, 132);
+}
+h1, label {
+    color: white;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+label {
+    text-shadow: 15px 7px 3px black;
+}
+button {
+    color: purple;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 35px;
+    background-color: white;
+    border-color: cyan;
+}
+#logo {
+    position: absolute;
+    top: 450px;
+    left: 750px;
+    color: cyan;
+    font-size: 75px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    text-shadow: 10px 5px 3px black;
+}
+textarea {
+    color:rgb(22, 8, 132);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 400px;
+    font-size: 35px;
+}
+#emoji {
+    position: absolute;
+    top: 320px;
+    left: 535px;
+    font-size: 58px;
+    text-shadow: 10px 3px 3px black;
+}
+h1 {
+    font-size: 60px;
+    background-color: cyan;
+    color: rgb(22, 8, 132);
+    /* text-shadow: 10px 5px 3px black; */
+    height: 90px;
+    margin-bottom: 0px;
+}
+#header {
+    position: relative;
+    top: -40px;
+    left: -7px;
+    width: 1520px;
+}
+#edno, #dve, #tri, #chetiri {
+    color:rgb(22, 8, 132);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 300px;
+    height: 90px;
+    font-size: 19px;
+}
+#pet {
+    color:rgb(22, 8, 132);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 400px;
+    height: 36px;
+    font-size: 25px;
+}
+#mainPage {
+    position: absolute;
+    top: 15%;
+    left: 1351px;
+    transform: scale(1.5);
+    border-color: rgb(22, 8, 132);
+}
+#completedGoals {
+    position: absolute;
+    top: 94%;
+    left: 87%;
+    transform: scale(1.8);
+}
+#create {
+    width: 150px;
+    height: 50px;
+    font-size: 25px;;
+}
+select {
+    color:rgb(22, 8, 132);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100px;
+    height: 40px;
+    font-size: 19px;
+
+}
+#add{
+    position: absolute;
+    top: 95%;
+    left: 1.9%;
+    transform: scale(1.3);
+}
