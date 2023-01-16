@@ -75,14 +75,14 @@ button {
     font-size: 13px;
     
 }
-#signup{
+#signin{
     position: absolute;
     right: 2%;
-    top: 222px
+    top: 222px;
 }
 #contact{
     position: absolute;
-    right: 2.5%;
+    right: 2%;
     top: 97.5%;
 }
 

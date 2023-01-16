@@ -21,7 +21,7 @@ button {
 #logo {
     position: absolute;
     top: 450px;
-    left: 750px;
+    left: 40%;
     color: cyan;
     font-size: 75px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -37,7 +37,7 @@ textarea {
 #emoji {
     position: absolute;
     top: 320px;
-    left: 535px;
+    left: 30%;
     font-size: 58px;
     text-shadow: 10px 3px 3px black;
 }

@@ -11,7 +11,7 @@ label {
 h1 {
     font-size: 60px;
     background-color: cyan;
-    color: rgb(31, 20, 251);
+    color: rgb(22, 8, 132);
     /* text-shadow: 10px 5px 3px black; */
     height: 90px;
     margin-bottom: 0px;
@@ -22,6 +22,7 @@ label {
 td {
     padding-left: 20px;
     padding-top: 10px;
+    text-align: right;
 }
 table {
     margin-left: auto;
@@ -44,14 +45,14 @@ input {
 }
 p[class="logo"] {
     color: cyan;
-    font-size: 75px;
+    font-size: 70px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
     text-shadow: 10px 5px 3px black;
 }
 p[class="emoji"] {
     text-align: center;
-    font-size: 70px;
+    font-size: 60px;
     text-shadow: 10px 3px 3px black;
 }
 #first {
@@ -80,14 +81,15 @@ p[class="emoji"] {
     transform: scale(2);
     width: 100px;
     height: 25px;
-    position: relative;
+    position: absolute;
     left: 1100px;
     bottom: 100px;
+    top: 65%;
 }
 #goBack  {
     position: absolute;
-    top: 27px;
-    left: 1345px;
+    top: 14.3%;
+    left: 1353px;
     transform: scale(1.5);
 }
 #header {

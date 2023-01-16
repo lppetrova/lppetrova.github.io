@@ -11,7 +11,7 @@ label {
 h1 {
     font-size: 60px;
     background-color: cyan;
-    color: rgb(31, 20, 251);
+    color: rgb(22, 8, 132);
     /* text-shadow: 10px 5px 3px black; */
     height: 90px;
     margin-bottom: 0px;
@@ -59,8 +59,8 @@ p[class="emoji"] {
 }
 #goBack  {
     position: absolute;
-    top: 27px;
-    left: 1360px;
+    top: 14%;
+    left: 1365px;
     transform: scale(1.5);
 }
 #header {
